@@ -4,6 +4,7 @@ syntax on
 set hidden
 set wildmenu
 set showcmd
+set incsearch
 set hlsearch
 set backspace=indent,eol,start
 set autoindent
